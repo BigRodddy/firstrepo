@@ -1,0 +1,24 @@
+table {
+	border: 1px solid #595959;
+	border-collapse: collapse;
+    border: white 0px solid;
+    margin: auto;
+}
+td, th {
+	padding: 3px;
+	width: 50px;
+	height: 50px;
+    margin: auto;
+    text-align: center;
+    border: 1px solid #595959;
+}
+th {
+    border: white 0px solid;
+    height: 2%;
+}
+
+td:hover {
+    background-color: yellow;
+    font-weight: bolder;
+    font-size: 50px;
+}
